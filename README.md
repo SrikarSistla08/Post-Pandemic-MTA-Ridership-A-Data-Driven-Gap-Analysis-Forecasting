@@ -1,5 +1,8 @@
 # 🗽 Post-Pandemic MTA Ridership: A Data-Driven Recovery Analysis & Forecasting
 
+<p align="center">
+  <img src="./MTA/MTA.jpg" alt="MTA Analysis" width="800"/>
+</p>
 ## Project Overview
 This project performs a comprehensive analysis of the New York Metropolitan Transportation Authority (MTA) ridership data from the onset of the COVID-19 pandemic (March 2020) to the present. The goal was to quantify the recovery gap, identify shifts in commuting patterns (Weekday vs. Weekend), and forecast the timeline for returning to pre-pandemic ridership levels.
 
