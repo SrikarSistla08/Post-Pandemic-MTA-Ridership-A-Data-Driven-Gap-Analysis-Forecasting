@@ -1,0 +1,29 @@
+Field,Description
+Date,The date of travel
+SUB TER,The daily total estimated subway ridership in New York City (NYC)
+SUB PPD,The daily subway ridership estimate as a percentage of subway ridership on an equivalent day prior to the COVID-19 pandemic
+BUS TER,The daily total estimated bus ridership in NYC
+BUS PPD,The daily bus ridership estimate as a percentage of bus ridership on an equivalent day prior to the COVID-19 pandemic
+LIRR TER,The daily total estimated Long Island Rail Road (LIRR) ridership (blank value indicates that the ridership data was not or is not currently available or applicable)
+LIRR PPD,The daily LIRR ridership estimate as a percentage of LIRR ridership on an equivalent day prior to the COVID-19 pandemic
+MN TER,The daily total estimated Metro-North Railroad (MNR) ridership (blank value indicates that the ridership data was not or is not currently available or applicable)
+MN PPD,The daily MNR ridership estimate as a percentage of MNR ridership on an equivalent day prior to the COVID-19 pandemic
+AAR TST,The daily total scheduled Access-A-Ride (AAR) Paratransit Service trips (blank value indicates that the ridership data was not or is not currently available or applicable)
+AAR PPD,The daily total scheduled AAR trips as a percentage of total scheduled trips on an equivalent day prior to the COVID-19 pandemic (blank value indicates that the ridership data was not or is not currently available or applicable)
+Bnt TT,The daily total Bridges and Tunnels (B&T) traffic in NYC (blank value indicates that the ridership data was not or is not currently available or applicable)
+Bnt PPD,The daily total B&T traffic as a percentage of total traffic on an equivalent day prior to the COVID-19 pandemic (blank value indicates that the ridership data was not or is not currently available or applicable)
+SIR TER,The daily total estimated Staten Island Railway (SIR) ridership
+SIR PPD,The daily SIR ridership estimate as a percentage of SIR ridership on an equivalent day prior to the COVID-19 pandemic
+,
+TER,TOTAL ESTIMATED RIDERSHIP
+PPD,% of Comparable Pre-Pandemic Day
+TST,Total Scheudled Trips
+TT,Totalt Traffic
+,
+SUB,Subway
+BUS,MTA Bus
+LIRR,Long Island Rail Road
+MN,Metro North Rail Road
+AAR,Access A Ride
+BnT,Bridges and Tunnels
+SIR,Staten Island Railroad
