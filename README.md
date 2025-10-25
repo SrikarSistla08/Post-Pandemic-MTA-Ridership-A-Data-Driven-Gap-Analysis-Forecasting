@@ -60,5 +60,5 @@ The raw data required significant cleanup before analysis. The following key ste
 ---
 
 ## 🔗 Live Report and Files
-* **Cleaned Dataset:** [`MTA_Ridership_Cleaned_Final.csv`](MTA_Ridership_Cleaned_Final.csv)
-* **Power BI File:** [`MTA_Ridership_Analysis.pbix`](MTA_Ridership_Analysis.pbix)
+* **Cleaned Dataset:** [MTA_Ridership.csv](MTA/MTA%2BDaily%2BRidership/Updated%20Data/MTA_Ridership.csv)
+* **Power BI File:** [MTA_Ridership_Analysis.pbix](MTA/MTA.pbix)
