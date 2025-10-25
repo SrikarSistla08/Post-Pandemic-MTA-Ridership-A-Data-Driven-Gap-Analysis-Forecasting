@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./MTA/MTA.jpg" alt="MTA Analysis" width="800"/>
 </p>
+
 ## Project Overview
 This project performs a comprehensive analysis of the New York Metropolitan Transportation Authority (MTA) ridership data from the onset of the COVID-19 pandemic (March 2020) to the present. The goal was to quantify the recovery gap, identify shifts in commuting patterns (Weekday vs. Weekend), and forecast the timeline for returning to pre-pandemic ridership levels.
 
@@ -28,6 +29,10 @@ The entire process demonstrates end-to-end analytical capability, including data
 
 ## 📊 Core Analysis & Visualizations
 The final Power BI dashboard is organized into three key pages, each telling a distinct story:
+
+<p align="center">
+  <img src="./MTA/Dashboard.png" alt="MTA Analysis" width="800"/>
+</p>
 
 ### 1. The New Normal: Structural Shift Analysis
 * **Visual:** Clustered Column Chart comparing **Average PPD** by `DayType` (Weekday vs. Weekend).
